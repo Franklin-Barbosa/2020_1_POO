@@ -1,3 +1,5 @@
+//Avaliação de Tipos Genéricos incompleta
+
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -74,3 +76,4 @@ class Colecao<T> : IEnumerable where T : IComparable<T> {
     return;
   }
 }
+
