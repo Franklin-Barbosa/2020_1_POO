@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmpresa xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Empresa>
+    <labs />
+    <Id>1</Id>
+    <Descricao>UNP</Descricao>
+  </Empresa>
+  <Empresa>
+    <labs />
+    <Id>2</Id>
+    <Descricao>IFRN (CNAT)</Descricao>
+  </Empresa><Empresa>
+    <labs />
+    <Id>3</Id>
+    <Descricao>UFRN</Descricao>
+  </Empresa>
+</ArrayOfEmpresa>
